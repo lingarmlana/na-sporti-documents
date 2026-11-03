@@ -1,4 +1,4 @@
-# na-sporti-documents
+# Взаємодія сутностей na-sporti
 
 ```mermaid
 graph TD
